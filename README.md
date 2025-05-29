@@ -31,6 +31,8 @@ Continue to follow the "commands". On "command END" we should realize that means
 
 We get there, find the penultimate part of the flag on the obsidian platform, then realize that KD means kill dragon, kill the dragon and get the final part of the flag in the chat.
 
+# !!! But later we found out that the obsidian platformer in End reappears every time, causing the plaque to break and the task was impossible to fully solve this way because of this. However, you can teleport to End with the command instead of through the portal and the plaque will stay in place.
+
 The flag is:
 ```
 SUCTF{y3ah_y0u_f0und_leg3nd4ry_f14g_1n_th1s_legend4ry_g4me_xd}
