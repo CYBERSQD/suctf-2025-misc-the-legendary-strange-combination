@@ -1,0 +1,12 @@
+---
+title: Legendary Strange Combination
+description: |
+  K U239 L3000 D313 R12084 K B10000 END KD
+
+  [legendary_save.rar](public/legendary_save.rar)
+categories:
+  - misc
+scoring:
+  type: dyn_log
+answers:
+  - SUCTF{y3ah_y0u_f0und_leg3nd4ry_f14g_1n_th1s_legend4ry_g4me_xd}
